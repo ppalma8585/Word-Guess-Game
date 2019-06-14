@@ -1,0 +1,40 @@
+body {
+    background-color:#cc0000;
+}
+
+h1 {
+    columns: #000000;;
+}
+
+
+
+
+.col-md-6 {
+    text-align: center;
+    border-style: solid;
+    padding: 80px;
+    border-color:#000000;
+}
+img {
+margin: 0 auto;
+}
+
+.intro {
+    margin: 0 auto;
+}
+
+#mainContainer {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #000000;
+}
+
+#secondContainer {
+    margin-top: 30px;
+}
+
+.container {
+    margin-top: 30px;
+}
